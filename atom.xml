@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>C0DET1GER</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-10-26T23:52:40.013Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>C0DET1GER</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://example.com/2024/10/26/hello-world/"/>
+    <id>http://example.com/2024/10/26/hello-world/</id>
+    <published>2024-10-26T04:00:00.000Z</published>
+    <updated>2024-10-26T23:52:40.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>uhh</p><span id="more"></span><p>Hello 你好</p><h2 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h2><h3 id="hi-1"><a href="#hi-1" class="headerlink" title="hi"></a>hi</h3><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cout &lt;&lt; <span class="string">&quot;Hello World!\n&quot;</span>;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;uhh&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Hello World" scheme="http://example.com/categories/Hello-World/"/>
+    
+    
+  </entry>
+  
+</feed>
