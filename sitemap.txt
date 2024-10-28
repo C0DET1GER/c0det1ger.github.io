@@ -1,4 +1,6 @@
+http://example.com/2024/10/28/Goals-for-24-25-School-Year/
 http://example.com/about/index.html
 http://example.com/2024/10/26/hello-world/
 http://example.com/
+http://example.com/categories/Goals/
 http://example.com/categories/Hello-World/
