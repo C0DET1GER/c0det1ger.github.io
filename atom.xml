@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-12-14T01:00:14.543Z</updated>
+  <updated>2024-12-18T00:05:22.675Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024 AMC 10A</title>
+    <link href="http://example.com/2024/12/17/USACO-december-oops/"/>
+    <id>http://example.com/2024/12/17/USACO-december-oops/</id>
+    <published>2024-12-17T23:42:45.000Z</published>
+    <updated>2024-12-18T00:05:22.675Z</updated>
+    
+    <content type="html"><![CDATA[<p>I did not underperform, it’s just my skill issue.</p><span id="more"></span><p>Still not much to say really, still sad</p><p>Score: 716 (333 / 50 / 333 distrib)</p><p>I feel that I’m probably not promoting tbh</p><p>Basically I looked at all three problems first then figured that p3 seems to be pretty well known and I might’ve even solved it before. Then I spent like 40 minutes on trying some random greedy that did not work. Then I decided to go look at the other problems.</p><p>First p1. I looked at the subtasks and thought that it could do with sqrt and wrote some kind of Nsqrt(N)log^2(N)-ish solution (I thought that there’s only one log because I suck at time complexity, which was also why I decided to implement it). It only failed three testcases. I moved on because three testcases didn’t really seem to matter right now.</p><p>This was about at the 1 hour mark since I passed (most of) p1 relatively quickly. Then I looked at p2 and had no idea. I thought of dp for subtask 2 but nothing beyond that. I decided that “p3 must actually be very easy” and put 2 more additional hours on that problem. I just started having random ideas and found out that greedy actually worked. It’s a rather short implementation so I ACed the problem at around the 3 hour mark.</p><p>At this time my score was about 600, and I figured that the 3 testcases might actually matter. (At this point I still didn’t notice that my time complexity had two logs) I thought that it must’ve been a constant problem, so I removed the “define int long long” and other unnecessary code to pass all testcases.</p><p>I had 666 points, and since p1 and p3 seemed to be relatively easy (although I had a skill issue and spent 3 hours on them), I thought the cutoff would be around 800. This also meant that I would have to solve subtask 3 in the remaining hour. This didn’t seem too bad, but I thought I should solve subtasks 1 and 2 first to secure a score above 700. Then, since I had a significant skill issue I spent about 30 minutes to solve those subtasks after I had the idea for dp (the main thing was that my solution was different and implementation heavy I guess).</p><p>Then I just spent the remaining 30 minutes thinking about how to solve subtask 3 and not solving it (which is essentially doing nothing)</p><p>After the contest, people seem to say that the cutoff will be around 750. I hope that the cutoff is 700, although it seems realistically impossible ngl. </p><p>Still hope that the cutoff is 700 (or lower) <span class="github-emoji"><span>🥺</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f97a.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> I still want a chance to camp in 9th grade, even if it’s 0.000000001%</p><p>I also learned that I’m not the only CF master clowning in USACO gold</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;I did not underperform, it’s just my skill issue.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="math comp" scheme="http://example.com/categories/math-comp/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Mid December Update</title>
