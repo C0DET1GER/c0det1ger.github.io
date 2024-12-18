@@ -8,7 +8,7 @@ http://example.com/about/index.html
 http://example.com/2024/10/26/hello-world/
 http://example.com/
 http://example.com/categories/math-comp/
-http://example.com/categories/Goals/
 http://example.com/categories/general-update/
+http://example.com/categories/Goals/
 http://example.com/categories/quarter/
 http://example.com/categories/Hello-World/
