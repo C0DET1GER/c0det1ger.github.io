@@ -14,5 +14,5 @@ http://example.com/categories/Goals/
 http://example.com/categories/general-update/
 http://example.com/categories/quarter/
 http://example.com/categories/competitive-programming/
-http://example.com/categories/Hello-World/
 http://example.com/categories/competitive-programming/virtual-contest/
+http://example.com/categories/Hello-World/
