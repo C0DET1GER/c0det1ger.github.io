@@ -1,3 +1,4 @@
+http://example.com/2025/02/14/AIME-II-2025/
 http://example.com/2025/01/29/USACO-2025-January/
 http://example.com/2024/12/17/USACO-december-oops/
 http://example.com/2024/12/22/USACO-Plat-yayy/
@@ -13,8 +14,8 @@ http://example.com/
 http://example.com/categories/math-comp/
 http://example.com/categories/Goals/
 http://example.com/categories/general-update/
-http://example.com/categories/competitive-programming/
 http://example.com/categories/quarter/
+http://example.com/categories/competitive-programming/
 http://example.com/categories/Hello-World/
 http://example.com/categories/competitive-programming/usaco/
 http://example.com/categories/competitive-programming/virtual-contest/
