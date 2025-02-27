@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-02-15T01:16:51.339Z</updated>
+  <updated>2025-02-27T21:05:56.334Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>USACO February Plat</title>
+    <link href="http://example.com/2025/02/27/USACO-February-Plat/"/>
+    <id>http://example.com/2025/02/27/USACO-February-Plat/</id>
+    <published>2025-02-27T21:04:49.000Z</published>
+    <updated>2025-02-27T21:05:56.334Z</updated>
+    
+    <content type="html"><![CDATA[<p>Camp when?</p><span id="more"></span><p>Score: 494, the distribution was 333 / 56 / 105</p><p>The contest went pretty well, perhaps even better than the January contest. I quickly (in the first 30 minutes) got the main observation for problem 1. Although I proceeded to spend 1 hour on implementation, I just felt confident that I could pull a &gt;400 score again with the 2.5 hours remaining.</p><p>So I was pretty calm and relaxed and got 494 with 1 hour remaining. Maybe some parts of me thought this was good enough, while some other parts of me still thought I should try to full solve another problem, since this would probably be enough to make it to the leaderboard.</p><p>I just thought p2 was probably actually easy and it had a lot of subtasks that could hopefully get me to a &gt;500 score so I spent the remaining hour doing p2 and got 0 points. But I guess this was fine since I still don’t think I would’ve gotten p3 anyway.</p><p>I feel the style of platinum contests, or perhaps even gold, have changed a lot. At least noticably there hasn’t been as much graph problems (0 in plat, not sure how many in gold), and the problems are more ad-hoc in general. Perhaps this benefits me since I’m probably an ad-hoc main, but this would probably mean that even if I somehow make USACO camp, I would still have to rely on this kind of different style to perform well.</p><p>Hopefully I don’t throw USACO Open along with my camp chances <span class="github-emoji"><span>🙏</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> People say an average of &gt;300 should make but I don’t know how much more USACO open is weighted so it’s a little scary. Why isn’t the cutoffs for camp disclosed <span class="github-emoji"><span>😭</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f62d.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>.</p><p>I also hope USACO could let us know our rank within people in the United States who took the contest (maybe certified). Last time I got 421, which was apparently a very common score, and it was rank 49. I have no idea how this converts to the rank in the United States (or perhaps if we limit it to certified people).</p><p>Reposting manifold market<br><a href="https://manifold.markets/C0DET1GER/will-i-make-usaco-camp-in-2025?play=true">https://manifold.markets/C0DET1GER/will-i-make-usaco-camp-in-2025?play=true</a></p><p>My manifold net worth tripled in February which was … nice?</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Camp when?&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="competitive programming" scheme="http://example.com/categories/competitive-programming/"/>
+    
+    <category term="usaco" scheme="http://example.com/categories/competitive-programming/usaco/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>AIME II 2025</title>
