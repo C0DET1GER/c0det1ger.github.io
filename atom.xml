@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-02-27T21:05:56.334Z</updated>
+  <updated>2025-03-21T23:50:38.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A day before USACO Open</title>
+    <link href="http://example.com/2025/03/21/A-day-before-USACO-Open/"/>
+    <id>http://example.com/2025/03/21/A-day-before-USACO-Open/</id>
+    <published>2025-03-21T23:14:34.000Z</published>
+    <updated>2025-03-21T23:50:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I was considering not to write this blog post since it could affect my feelings, leading to a worse performance tomorrow.</p><span id="more"></span><p>This post isn’t really that much about USACO and competitive programming though, since the only  thing I’ve done was being anxious.</p><h2 id="CMIMC"><a href="#CMIMC" class="headerlink" title="CMIMC"></a>CMIMC</h2><p>And then there’s CMIMC. The trip was a fun experience overall (this was actually the first travel competition I’ve ever attended). On Friday our plane got delayed so we had lunch at like 4. Then we went to play frisbee and later went to estimathon (we won!). </p><p>The Theoretical Computer Science round was kind of interesting because I’ve never done one of these rounds before (except for practicing in math team). But it turned out that we didn’t do too good on that round either despite me being a USACO main. On team the only thing I did was p1 and solving p2 at the last second but not having enough time to change our wrong answer.</p><p>During individuals I ABSOLUTELY SOLD (distribution was strictly less than 434 oops). I probably should’ve been in Lexington Epsilon. I can’t really say anything though since CMIMC (and perhaps math in general) isn’t as important as USACO is to me or USA(J)MO is to other people, so I probably shouldn’t be ranting too much.</p><p>On our way back my seat was changed for some reason, making me sit with a stranger instead of Lexington people. The wifi also didn’t work on our way back, so I basically just idled for an hour.</p><h2 id="Other"><a href="#Other" class="headerlink" title="Other"></a>Other</h2><p>Obviously my 226.5 JMO index was lower than the 233.5 cutoff, but since I wasn’t prepared anyway and would spend more time on preparing for USACO, I don’t really feel too bad about that. I also probably got a 10 in F=ma (got p1, p4, p6, p8, p9, p10, p11, and guessed the rest), which is much lower than a 15 so I don’t have anything to regret about.</p><p>There was also picoCTF and vyx7 &amp; other LexMACS people admitted orz (33th place in US High School or below). In the beginning of the window I just stole all the easy problems and pretended that I contributed. I’ll (probably) also become one of the LIT organizers which means that I probably can’t participate in LIT 2024 standard round even if it somehow miraculously happens.</p><p>Unfortunately, my GPA fell off so now I likely won’t have one higher than 4.1 anymore.</p><p>The only thing I can hope for now is to not do bad in USACO Open, hopefully a 300+ (or even 400+) score. I don’t want all my luck in December, January and February to be for nothing.</p><p>My birthday also passed recently, so now I’m 15 years old.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;I was considering not to write this blog post since it could affect my feelings, leading to a worse performance tomorrow.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="general update" scheme="http://example.com/categories/general-update/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>USACO February Plat</title>

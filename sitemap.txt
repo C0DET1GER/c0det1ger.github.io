@@ -1,3 +1,4 @@
+http://example.com/2025/03/21/A-day-before-USACO-Open/
 http://example.com/2025/01/29/USACO-2025-January/
 http://example.com/2025/02/27/USACO-February-Plat/
 http://example.com/2025/02/14/AIME-II-2025/
@@ -13,10 +14,10 @@ http://example.com/about/index.html
 http://example.com/2024/10/26/hello-world/
 http://example.com/
 http://example.com/categories/math-comp/
-http://example.com/categories/Goals/
 http://example.com/categories/general-update/
-http://example.com/categories/competitive-programming/
+http://example.com/categories/Goals/
 http://example.com/categories/quarter/
+http://example.com/categories/competitive-programming/
 http://example.com/categories/Hello-World/
 http://example.com/categories/competitive-programming/usaco/
 http://example.com/categories/competitive-programming/virtual-contest/
