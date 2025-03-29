@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-03-21T23:50:38.000Z</updated>
+  <updated>2025-03-29T02:20:40.257Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>USACO 2025 Open</title>
+    <link href="http://example.com/2025/03/28/USACO-2025-Open/"/>
+    <id>http://example.com/2025/03/28/USACO-2025-Open/</id>
+    <published>2025-03-29T02:18:26.000Z</published>
+    <updated>2025-03-29T02:20:40.257Z</updated>
+    
+    <content type="html"><![CDATA[<p>It’s joever</p><span id="more"></span><p>Score: 269<br>Distribution: 167 (7 testcases) / 102 (4 testcases) / 0</p><p>I did not cook again. Nor was this an extremely bad score considering my skill (getting a 717 in 2024 December Gold which wasn’t even that hard). This makes my net score 1184 if open wasn’t weighted, but since it is likely my camp chances might be cooked.</p><p>I looked at the three problems and quickly realized that there’s no way I could get points on p3 so I skipped it which turned out to be a wise decision. Not really much happened during the contest, I just spent too much time trying to code (and debug) obvious fakesolves.</p><p>For problem 1, I somehow thought that it would always be optimal to pick either a rectangle that has the leftmost rightend or a rectangle that has the bottommost top end (?). I, being used to codeforces contests, decided that this solution wasn’t too hard to implement and attempted to “prove by AC”. Unfortunately, proving by AC only works if the solution is actually correct. For problem 2, I also derived some weird fakesolve (which didn’t even pass samples!) that took me an hour to implement.</p><p>USACO Camp decisions won’t come out until mid-late April, which also means that I’m not really sure whether I should register for ARML. If I had gotten a 400 or so I wouldn’t hesitate but … this is reality I guess.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;It’s joever&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="competitive programming" scheme="http://example.com/categories/competitive-programming/"/>
+    
+    <category term="usaco" scheme="http://example.com/categories/competitive-programming/usaco/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>A day before USACO Open</title>
