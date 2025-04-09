@@ -1,3 +1,4 @@
+http://example.com/about/index.html
 http://example.com/2025/03/28/USACO-2025-Open/
 http://example.com/2025/02/27/USACO-2025-February/
 http://example.com/2024/10/28/Goals-for-24-25-School-Year/
@@ -11,14 +12,13 @@ http://example.com/2024/12/31/Virtual-BOI-2024/
 http://example.com/2024/11/15/Quarter-1-Recap/
 http://example.com/2024/11/07/2024-AMC-10A/
 http://example.com/2024/11/10/HMMT/
-http://example.com/about/index.html
 http://example.com/2024/10/26/hello-world/
 http://example.com/
 http://example.com/categories/math-comp/
 http://example.com/categories/general-update/
 http://example.com/categories/Goals/
-http://example.com/categories/quarter/
 http://example.com/categories/competitive-programming/
+http://example.com/categories/quarter/
+http://example.com/categories/competitive-programming/virtual-contest/
 http://example.com/categories/competitive-programming/usaco/
 http://example.com/categories/Hello-World/
-http://example.com/categories/competitive-programming/virtual-contest/
