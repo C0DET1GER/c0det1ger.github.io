@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2025/04/11/Late-BrUMO-Recap/</loc>
+    
+    <lastmod>2025-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2025-04-09</lastmod>
@@ -139,7 +148,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -149,56 +158,56 @@
   
   <url>
     <loc>http://example.com/categories/math-comp/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/general-update/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Goals/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/quarter/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/competitive-programming/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Hello-World/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/competitive-programming/usaco/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/competitive-programming/virtual-contest/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
