@@ -16,8 +16,8 @@ http://example.com/2024/12/13/Mid-December-Update/
 http://example.com/2024/10/26/hello-world/
 http://example.com/about/index.html
 http://example.com/
-http://example.com/tags/math-comp/
 http://example.com/tags/general-update/
+http://example.com/tags/math-comp/
 http://example.com/tags/Goals/
 http://example.com/tags/competitive-programming/
 http://example.com/tags/quarter/
