@@ -19,9 +19,9 @@ http://example.com/about/index.html
 http://example.com/
 http://example.com/tags/math-comp/
 http://example.com/tags/general-update/
-http://example.com/tags/Goals/
 http://example.com/tags/competitive-programming/
 http://example.com/tags/quarter/
 http://example.com/tags/usaco/
-http://example.com/tags/virtual-contest/
+http://example.com/tags/Goals/
 http://example.com/tags/Hello-World/
+http://example.com/tags/virtual-contest/
