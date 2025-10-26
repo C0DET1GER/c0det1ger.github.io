@@ -1,3 +1,4 @@
+http://example.com/2025/10/26/Hi-Im-Back/
 http://example.com/about/index.html
 http://example.com/2024/10/28/Goals-for-24-25-School-Year/
 http://example.com/2025/06/15/USACO-Camp-2025/
@@ -18,10 +19,10 @@ http://example.com/2024/12/13/Mid-December-Update/
 http://example.com/2024/10/26/hello-world/
 http://example.com/
 http://example.com/tags/math-comp/
-http://example.com/tags/Goals/
 http://example.com/tags/general-update/
+http://example.com/tags/Goals/
 http://example.com/tags/competitive-programming/
-http://example.com/tags/usaco/
 http://example.com/tags/quarter/
+http://example.com/tags/usaco/
 http://example.com/tags/Hello-World/
 http://example.com/tags/virtual-contest/
